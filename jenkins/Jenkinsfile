@@ -28,4 +28,3 @@ pipeline {
         }
     }
 }
-## This Jenkinsfile defines a simple pipeline with three stages: Build, Test, and Deliver. The Build stage compiles the Java application using Maven, while the Test stage runs the tests and collects the test results. Finally, the Deliver stage executes a script to deploy the application.
